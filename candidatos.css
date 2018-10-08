@@ -1,0 +1,22 @@
+div.por100 { color: grey; 
+	float:right; 
+	margin-top: -50px;}
+
+div.sessao { 
+	color: grey;}
+
+div.circle {
+  background-color: #aaa;
+  border-radius: 50%;
+  width: 60px;
+  height: 60px;
+  overflow: hidden;
+  position: relative;}
+
+div.bolso { margin-top: -50px; 
+	margin-left: 75px; }
+
+div.psl { color: grey;
+	margin-left: 75px; }
+
+div.turno { color: green;}
